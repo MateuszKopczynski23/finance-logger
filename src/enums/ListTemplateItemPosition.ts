@@ -1,0 +1,1 @@
+export enum ListTemplateItemPosition { START, END}
